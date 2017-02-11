@@ -1,0 +1,12 @@
+D:\onu\ДС\compress_decompress\compress_decompress\obj\x86\Debug\compress_decompress.Form1.resources
+D:\onu\ДС\compress_decompress\compress_decompress\obj\x86\Debug\compress_decompress.Properties.Resources.resources
+D:\onu\ДС\compress_decompress\compress_decompress\obj\x86\Debug\compress_decompress.csproj.GenerateResource.Cache
+D:\onu\ДС\compress_decompress\compress_decompress\bin\Debug\compress_decompress.exe
+D:\onu\ДС\compress_decompress\compress_decompress\bin\Debug\compress_decompress.pdb
+D:\onu\ДС\compress_decompress\compress_decompress\obj\x86\Debug\compress_decompress.exe
+D:\onu\ДС\compress_decompress\compress_decompress\obj\x86\Debug\compress_decompress.pdb
+D:\onu\ДС\compress_decompress\compress_decompress\obj\x86\Debug\compress_decompress.csprojResolveAssemblyReference.cache
+E:\ДС2\compress_decompress\compress_decompress\obj\x86\Debug\compress_decompress.exe
+E:\ДС2\compress_decompress\compress_decompress\obj\x86\Debug\compress_decompress.pdb
+D:\onu\Дс2\compress_decompress\compress_decompress\obj\x86\Debug\compress_decompress.exe
+D:\onu\Дс2\compress_decompress\compress_decompress\obj\x86\Debug\compress_decompress.pdb
